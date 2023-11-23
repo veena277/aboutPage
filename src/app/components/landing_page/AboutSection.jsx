@@ -19,7 +19,7 @@ const AboutSection = () => {
               About Us{" "}
             </h2>
             <p className=" text-xl font-sans ">
-              Our online learning platform is not just about courses; it's an
+              Oui online learning platform is not just about courses; it's an
               immersive experience designed to make learning fun and rewarding.
               Engage in friendly competition with our leaderboard, where you can
               track your progress and see how you stack up against others. Dive
